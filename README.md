@@ -27,7 +27,7 @@ OpenChat is an everyday user chatbot console that simplifies the utilization of 
 ## Try it out:
 **You can try it out on [openchat.so](http://openchat.so/)**
 
-https://github.com/openchatai/OpenChat/assets/32633162/112a72a7-4314-474b-b7b5-91228558370c
+https://github.com/winnerdev2012/OpenChat/assets/32633162/112a72a7-4314-474b-b7b5-91228558370c
 
 Chinese Video Tutorial:https://www.bilibili.com/video/BV1YX4y1H7oN
 
@@ -178,11 +178,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/eltociear"><img src="https://avatars.githubusercontent.com/u/22633385?v=4?s=100" width="100px;" alt="Ikko Eltociear Ashimine"/><br /><sub><b>Ikko Eltociear Ashimine</b></sub></a><br /><a href="#ideas-eltociear" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/openchatai/OpenChat/commits?author=eltociear" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jsindy"><img src="https://avatars.githubusercontent.com/u/4966007?v=4?s=100" width="100px;" alt="Joshua Sindy"/><br /><sub><b>Joshua Sindy</b></sub></a><br /><a href="https://github.com/openchatai/OpenChat/issues?q=author%3Ajsindy" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/erjanmx"><img src="https://avatars.githubusercontent.com/u/4899432?v=4?s=100" width="100px;" alt="Erjan Kalybek"/><br /><sub><b>Erjan Kalybek</b></sub></a><br /><a href="https://github.com/openchatai/OpenChat/commits?author=erjanmx" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://woahai.com/"><img src="https://avatars.githubusercontent.com/u/115117306?v=4?s=100" width="100px;" alt="WoahAI"/><br /><sub><b>WoahAI</b></sub></a><br /><a href="https://github.com/openchatai/OpenChat/issues?q=author%3AWoahai321" title="Bug reports">🐛</a> <a href="https://github.com/openchatai/OpenChat/commits?author=Woahai321" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://space.bilibili.com/1900783"><img src="https://avatars.githubusercontent.com/u/36354458?v=4?s=100" width="100px;" alt="Tommy in Tongji"/><br /><sub><b>Tommy in Tongji</b></sub></a><br /><a href="https://github.com/openchatai/OpenChat/commits?author=TommyZihao" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/eltociear"><img src="https://avatars.githubusercontent.com/u/22633385?v=4?s=100" width="100px;" alt="Ikko Eltociear Ashimine"/><br /><sub><b>Ikko Eltociear Ashimine</b></sub></a><br /><a href="#ideas-eltociear" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/winnerdev2012/OpenChat/commits?author=eltociear" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jsindy"><img src="https://avatars.githubusercontent.com/u/4966007?v=4?s=100" width="100px;" alt="Joshua Sindy"/><br /><sub><b>Joshua Sindy</b></sub></a><br /><a href="https://github.com/winnerdev2012/OpenChat/issues?q=author%3Ajsindy" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/erjanmx"><img src="https://avatars.githubusercontent.com/u/4899432?v=4?s=100" width="100px;" alt="Erjan Kalybek"/><br /><sub><b>Erjan Kalybek</b></sub></a><br /><a href="https://github.com/winnerdev2012/OpenChat/commits?author=erjanmx" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://woahai.com/"><img src="https://avatars.githubusercontent.com/u/115117306?v=4?s=100" width="100px;" alt="WoahAI"/><br /><sub><b>WoahAI</b></sub></a><br /><a href="https://github.com/winnerdev2012/OpenChat/issues?q=author%3AWoahai321" title="Bug reports">🐛</a> <a href="https://github.com/winnerdev2012/OpenChat/commits?author=Woahai321" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://space.bilibili.com/1900783"><img src="https://avatars.githubusercontent.com/u/36354458?v=4?s=100" width="100px;" alt="Tommy in Tongji"/><br /><sub><b>Tommy in Tongji</b></sub></a><br /><a href="https://github.com/winnerdev2012/OpenChat/commits?author=TommyZihao" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/winnerdev2012/OpenChat/commits?author=winnerdev2012"><img src="https://avatars.githubusercontent.com/u/70522646?v=4?s=100" width="100px;" alt="codebane"/><br /><sub><b>winnerdev2012</b></sub></a><br /><a href="https://github.com/winnerdev2012/OpenChat/commits?author=winnerdev2012" title="Code">💻</a> <a href="https://github.com/winnerdev2012/OpenChat/commits?author=winnerdev2012" title="Documentation">📖</a></td>
     </tr>
   </tbody>
