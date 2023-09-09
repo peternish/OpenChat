@@ -1,19 +1,4 @@
 
-
-
-<p>
-<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/openchatai/openchat" />
-<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/openchatai/openchat" />
-<img alt="" src="https://img.shields.io/github/repo-size/openchatai/openchat" />
-<img alt="GitHub Issues" src="https://img.shields.io/github/issues/openchatai/openchat" />
-<img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/openchatai/openchat" />
-<img alt="Github License" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-<img alt="Discord" src="https://img.shields.io/discord/1110910277110743103?label=Discord&logo=discord&logoColor=white&style=plastic&color=d7b023)](https://discord.gg/Q8hHfdav" />
-</p>
-
-![](https://gcdnb.pbrd.co/images/gjX4atjx9uKT.png?o=1)
-
-------
 # OpenChat
 
 ---- 
@@ -153,44 +138,3 @@ Start your adventure of contributing to and using OpenChat, now remade using the
 
 Once the installation is complete, you can access the OpenChat console at: http://localhost:8000
 
-Documentation [available here](https://docs.openchat.so/introduction)
-
-## 🚀 Upgrade guide:
-
-We do our best to not introduce breaking changes, so far, you only need to git pull and run `make install` whenever there is a new update.
-
-## ❤️ Thanks:
-- To [@mayooear](https://github.com/mayooear) for his work and tutorial on chatting with PDF files, we utilized a lot of his code in the LLM server.
-
-
-## License
-This project is licensed under the MIT License.
-
-
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/eltociear"><img src="https://avatars.githubusercontent.com/u/22633385?v=4?s=100" width="100px;" alt="Ikko Eltociear Ashimine"/><br /><sub><b>Ikko Eltociear Ashimine</b></sub></a><br /><a href="#ideas-eltociear" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/winnerdev2012/OpenChat/commits?author=eltociear" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jsindy"><img src="https://avatars.githubusercontent.com/u/4966007?v=4?s=100" width="100px;" alt="Joshua Sindy"/><br /><sub><b>Joshua Sindy</b></sub></a><br /><a href="https://github.com/winnerdev2012/OpenChat/issues?q=author%3Ajsindy" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/erjanmx"><img src="https://avatars.githubusercontent.com/u/4899432?v=4?s=100" width="100px;" alt="Erjan Kalybek"/><br /><sub><b>Erjan Kalybek</b></sub></a><br /><a href="https://github.com/winnerdev2012/OpenChat/commits?author=erjanmx" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://woahai.com/"><img src="https://avatars.githubusercontent.com/u/115117306?v=4?s=100" width="100px;" alt="WoahAI"/><br /><sub><b>WoahAI</b></sub></a><br /><a href="https://github.com/winnerdev2012/OpenChat/issues?q=author%3AWoahai321" title="Bug reports">🐛</a> <a href="https://github.com/winnerdev2012/OpenChat/commits?author=Woahai321" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://space.bilibili.com/1900783"><img src="https://avatars.githubusercontent.com/u/36354458?v=4?s=100" width="100px;" alt="Tommy in Tongji"/><br /><sub><b>Tommy in Tongji</b></sub></a><br /><a href="https://github.com/winnerdev2012/OpenChat/commits?author=TommyZihao" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/winnerdev2012/OpenChat/commits?author=winnerdev2012"><img src="https://avatars.githubusercontent.com/u/70522646?v=4?s=100" width="100px;" alt="codebane"/><br /><sub><b>winnerdev2012</b></sub></a><br /><a href="https://github.com/winnerdev2012/OpenChat/commits?author=winnerdev2012" title="Code">💻</a> <a href="https://github.com/winnerdev2012/OpenChat/commits?author=winnerdev2012" title="Documentation">📖</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
